@@ -1,0 +1,8 @@
+# docker-vuubaa
+A docker Container for vuubaa app server
+
+
+This is Docker Image for Django Application server which will be used temporary 
+its included django Auth Toolkit patched for MIDDLEWARE_CLASSES issue in Django 1.10
+
+we will be using it temporary waiting DOT to updates for Django 1.10 
