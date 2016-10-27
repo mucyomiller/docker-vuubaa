@@ -5,7 +5,7 @@ MAINTAINER Mucyo Miller
 ########################################################################################################
 #                                                                                                      #
 #        This is temporary image to tackle issue of Django 1.10 MIDDLEWARE_CLASSES                     #
-#       will will use official images when Django Auth toolkit updates for Django 1.10 changes         #
+#       we will use official images when Django Auth toolkit updates for Django 1.10 changes         #
 #                                                                                                      #
 ########################################################################################################
 
