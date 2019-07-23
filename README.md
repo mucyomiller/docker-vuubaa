@@ -1,5 +1,5 @@
 # docker-vuubaa
-A docker Container for vuubaa app server
+A docker Image for vuubaa app server
 
 
 This is Docker Image for Django Application server which will be used temporary 
